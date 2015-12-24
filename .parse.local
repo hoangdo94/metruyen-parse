@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "metruyen"
+    },
+    "metruyen": {
+      "applicationId": "N7IUy9p4VgE7FdME1MVssgPAuSzNtfOjvrxcfffV"
+    }
+  }
+}
